@@ -1,0 +1,1 @@
+variable "jwt_secret" {}

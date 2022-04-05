@@ -1,0 +1,14 @@
+{
+  "name": "copernicus-lambda-deployer",
+  "version": "0.1.0",
+  "description": "Deploys the Copernicus API to AWS Lambda (plus DynamoDB and API Gateway).",
+  "main": "index.js",
+  "author": "Jeremy Epstein",
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/Jaza/copernicus-lambda-deployer",
+  "repository": "github:Jaza/copernicus-lambda-deployer",
+  "dependencies": {
+    "copernicus-api": "^0.1.8",
+    "serverless-http": "^3.0.1"
+  }
+}
